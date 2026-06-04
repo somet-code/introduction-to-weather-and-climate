@@ -4,10 +4,10 @@
   <title>Atmosphere</title>
 
   <p>
-    An <term><xref ref="term-atmosphere">atmosphere</xref></term> is a fluctuating, mobile envelope of mainly gases,
+    An <term><xref ref="term-atmosphere" text="custom">atmosphere</xref></term> is a fluctuating, mobile envelope of mainly gases,
     with some small liquid and solid particles distributed throughout the empty space between gas particles,
-    that is loosely held around a <term><xref ref="term-celestial-body">celestial body</xref></term>
-    like a planet by the body's <term><xref ref="term-gravitational-force">gravitational force</xref></term> (<xref ref="ch1-atmosphere-figure " />).
+    that is loosely held around a <term><xref ref="term-celestial-body" text="custom">celestial body</xref></term>
+    like a planet by the body's <term><xref ref="term-gravitational-force" text="custom">gravitational force</xref></term> (<xref ref="ch1-atmosphere-figure " />).
     A celestial body's atmosphere extends from its surface to some indefinite height above the surface.
   </p>
   <figure xml:id="ch1-atmosphere-figure">
