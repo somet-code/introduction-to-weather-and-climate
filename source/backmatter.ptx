@@ -28,6 +28,18 @@
         A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.
       </p>
     </gi>
+    <gi xml:id="term-celestial-body">
+      <title>celestial body</title>
+      <p>
+        A coherent collection of matter located in outer space.
+      </p>
+    </gi>
+    <gi xml:id="term-gravitational-force">
+      <title>gravitational force</title>
+      <p>
+        The attractive force due to a physical body's mass that pulls other physical bodies toward its center.
+      </p>
+    </gi>
   </glossary>
 
 </backmatter>
