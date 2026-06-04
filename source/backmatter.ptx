@@ -19,5 +19,16 @@
   <colophon>
     <p> This book was authored in <pretext />. </p>
   </colophon>
+
+  <glossary>
+    <title>Glossary</title>
+    <gi xml:id="term-atmosphere">
+      <title>atmosphere</title>
+      <p>
+        A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.
+      </p>
+    </gi>
+  </glossary>
+
 </backmatter>
 
