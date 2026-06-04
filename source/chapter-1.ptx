@@ -4,7 +4,10 @@
   <title>Introduction to the Textbook</title>
 
   <introduction>
-    <p>Welcome to our textbook!</p>
+    <p>
+      Welcome to our textbook!
+      This textbook was written to support you in learning foundational knowledge about Earth's atmosphere to better understand our weather and climate.
+    </p>
     <p>
       Before diving into the study of Earth's weather and climate,
       we will introduce several fundamental terms and concepts that will be used throughout this textbook,
@@ -13,6 +16,6 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="ch1-section-atmosphere.ptx" />
 
 </chapter>

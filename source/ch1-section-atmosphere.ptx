@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+<section xml:id="ch1-section-atmosphere" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Atmosphere</title>
 
-  <p> Text of section. </p>
+  <p>
+    An <term><xref ref="term-atmosphere">atmosphere</xref></term> is a fluctuating, mobile envelope of mainly gases,
+    with some small liquid and solid particles distributed throughout the empty space between gas particles,
+    that is loosely held around a celestial body like a planet by the body's gravitational force (Fig. 1).
+    A body's atmosphere extends from its surface to some indefinite height above the surface.
+  </p>
 
 </section>
