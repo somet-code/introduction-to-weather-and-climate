@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Atmosphere",
-  "body": " Atmosphere  An atmosphere is a fluctuating, mobile envelope of mainly gases, with some small liquid and solid particles distributed throughout the empty space between gas particles, that is loosely held around a celestial body like a planet by the body's gravitational force ( ). A celestial body's atmosphere extends from its surface to some indefinite height above the surface.   Photograph taken from the International Space Station of the edge of Earth's atmosphere, called Earth's limb, illuminated from below by sunlight, with Earth's Moon in the background. The black shading at the bottom of the photograph is Earth's surface, and the black shading at the top of the photograph is outer space. Progressing upward from Earth's surface, the horizontally-oriented orange, brown, yellow, and blue shaded regions within the atmosphere visualize its layers. [1]    "
+  "body": " Atmosphere  An atmosphere is a fluctuating, mobile envelope of mainly gases, with some small liquid and solid particles distributed throughout the empty space between gas particles, that is loosely held around a celestial body like a planet by the body's gravitational force ( ). A celestial body's atmosphere extends from its surface to some indefinite height above the surface.   Photograph taken from the International Space Station of the edge of Earth's atmosphere, called Earth's limb, illuminated from below by sunlight, with Earth's Moon in the background. The black shading at the bottom of the photograph is Earth's surface, and the black shading at the top of the photograph is outer space. Progressing upward from Earth's surface, the horizontally-oriented orange, brown, yellow, and blue shaded regions within the atmosphere visualize its layers. [1]   Horizontally-oriented layers stacked vertically in Earth's limb with Earth's moon in the background.    "
 },
 {
   "id": "ch1-section-atmosphere-2",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "1.1.1",
   "title": "",
-  "body": " Photograph taken from the International Space Station of the edge of Earth's atmosphere, called Earth's limb, illuminated from below by sunlight, with Earth's Moon in the background. The black shading at the bottom of the photograph is Earth's surface, and the black shading at the top of the photograph is outer space. Progressing upward from Earth's surface, the horizontally-oriented orange, brown, yellow, and blue shaded regions within the atmosphere visualize its layers. [1]   "
+  "body": " Photograph taken from the International Space Station of the edge of Earth's atmosphere, called Earth's limb, illuminated from below by sunlight, with Earth's Moon in the background. The black shading at the bottom of the photograph is Earth's surface, and the black shading at the top of the photograph is outer space. Progressing upward from Earth's surface, the horizontally-oriented orange, brown, yellow, and blue shaded regions within the atmosphere visualize its layers. [1]   Horizontally-oriented layers stacked vertically in Earth's limb with Earth's moon in the background.   "
 },
 {
   "id": "backmatter-2",
