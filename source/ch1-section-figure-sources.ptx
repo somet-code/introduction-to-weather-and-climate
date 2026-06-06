@@ -4,7 +4,8 @@
     <title>Figure sources</title>
     <p>
         <ol>
-            <li>
+            <li xml:id="ch1-atmosphere-figure-source">
+                <title>Earth's limb</title>
                 <p>
                     Astronaut photograph <url href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS028&amp;roll=E&amp;frame=20072">ISS028-E-020072</url>
                     was acquired on July 31, 2011,
