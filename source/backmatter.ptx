@@ -16,10 +16,6 @@
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->
 
-  <colophon>
-    <p> This book was authored in <pretext />. </p>
-  </colophon>
-
   <glossary>
     <title>Glossary</title>
     <gi xml:id="term-atmosphere">
@@ -41,6 +37,10 @@
       </p>
     </gi>
   </glossary>
+
+  <colophon>
+    <p> This book was authored in <pretext />. </p>
+  </colophon>
 
 </backmatter>
 
