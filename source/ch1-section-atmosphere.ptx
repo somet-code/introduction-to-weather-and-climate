@@ -7,7 +7,7 @@
     An <term><xref ref="term-atmosphere" text="custom">atmosphere</xref></term> is a fluctuating, mobile envelope of mainly gases,
     with some small liquid and solid particles distributed throughout the empty space between gas particles,
     that is loosely held around a <term><xref ref="term-celestial-body" text="custom">celestial body</xref></term>
-    like a planet by the body's <term><xref ref="term-gravitational-force" text="custom">gravitational force</xref></term> (<xref ref="ch1-atmosphere-figure " />).
+    like a planet by the body's <term><xref ref="term-gravitational-force" text="custom">gravitational force</xref></term> (<xref ref="ch1-atmosphere-figure " text="type-local"/>).
     A celestial body's atmosphere extends from its surface to some indefinite height above the surface.
   </p>
   <figure xml:id="ch1-atmosphere-figure">
@@ -25,6 +25,13 @@
       <shortdescription>Horizontally-oriented layers stacked vertically in Earth's limb with Earth's moon in the background.</shortdescription>
     </image>
   </figure>
+  <p>
+    With the exception of precipitation particles like rain drops, snow flakes, sleet pellets, and hail stones,
+    most of the particles that comprise an atmosphere are too small to be seen individually by the naked eye.
+    And yet, the bulk effect of these tiny particles is made visible through, for example,
+    the scattering of sunlight by gases and water droplets that human eyes interpret as blue daytime skies, red sunrises and sunsets, and white clouds.
+    The colors captured in the photograph of Earth's limb in <xref ref="ch1-atmosphere-figure " text="type-local"/> are due to such scattering of sunlight by microscopic particles in our planet's atmosphere.
+  </p>
 
 
 </section>
