@@ -36,6 +36,18 @@
         The attractive force due to a physical body's mass that pulls other physical bodies toward its center.
       </p>
     </gi>
+    <gi xml:id="term-limb">
+      <title>limb</title>
+      <p>
+        The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.
+      </p>
+    </gi>
+    <gi xml:id="term-precipitation">
+      <title>precipitation</title>
+      <p>
+        A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.
+      </p>
+    </gi>
   </glossary>
 
   <colophon>
