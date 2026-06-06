@@ -17,5 +17,6 @@
 
   <!-- include sections -->
   <xi:include href="ch1-section-atmosphere.ptx" />
+  <xi:include href="ch1-section-figure-sources.ptx" />
 
 </chapter>
