@@ -3,4 +3,57 @@
 <section xml:id="ch1-section-atmospheric-science-meteorology-climatology" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Atmospheric science, meteorology, and climatology</title>
 
+    <p>
+        <term><xref ref="term-atmospheric-science" text="custom">Atmospheric science</xref></term> is a broad field of study, with many specialized sub-fields.
+        To differentiate a couple of sub-fields most relevant to this textbook,
+        we will refer to definitions commonly used in the field of atmospheric science.
+    </p>
+
+    <p>
+        Many fields<mdash/>scientific or otherwise<mdash/>are supported by large professional societies.
+        The American Meteorological Society is a <term><xref ref="term-professional-society" text="custom">professional society</xref></term> that supports atmospheric science.
+        They advance weather, water, and climate science by providing by providing their <url href="https://www.ametsoc.org/ams/membership/">nearly 12,000 members</url> with a variety of professional development and educational resources.
+        One of these resources is the <pubtitle><url href="https://glossary.ametsoc.org/">Glossary of Meteorology</url></pubtitle>, which is a peer-reviewed compendium of definitions relevant to weather, water, and climate science.
+        We will point you to the <pubtitle>Glossary of Meteorology</pubtitle> as the authoritative source of definitions for many concepts discussed in this textbook, beginning with the definitions of atmospheric science, meteorology, and climatology.
+    </p>
+
+    <p>
+        In their <pubtitle>Glossary of Meteorology</pubtitle>, the American Meteorological Society <url href="https://glossary.ametsoc.org/wiki/atmospheric-science/">defines atmospheric science</url> as the study of the <q>physics, chemistry, and dynamics</q> of Earth's atmosphere.
+        This definition makes it clear that studying Earth's atmosphere requires applying the principles of physics and chemistry to the mainly-gaseous envelope surrounding the planet.
+    </p>
+
+    <p>
+        <term><xref ref="term-meteorology" text="custom">Meteorology</xref></term>, as the sub-field of atmospheric science that focuses on studying, describing, and predicting the "everyday weather" we experience at or relatively close to Earth's surface,
+        might be the most familiar part of the science.
+        While the American Meteorological Society's <url href="https://glossary.ametsoc.org/wiki/meteorology/">definition of meteorology</url> covers many of the same aspects as its definition of atmospheric science,
+        they specifically note the importance of the <q>accurate prediction of atmospheric phenomena</q> to meteorology.
+        Such predictions require understanding and measuring the composition, structure, and motion of Earth's atmosphere.
+    </p>
+
+    <p>
+        <term><xref ref="term-climatology" text="custom">Climatology</xref></term>, which also is called climate science,
+        is the sub-field of atmospheric science that focuses on studying, describing, and predicting or projecting Earth's climate.
+        Unlike weather, which is experienced in real-time, climate is a statistical concept constructed from many observations of weather combined over a long period of time.
+        <url href="https://quoteinvestigator.com/2012/06/24/climate-vs-weather/">A quote often attributed to Mark Twain</url> sums up the contrast between weather and climate: <q>The climate is what you expect; the weather is what you get.</q>
+        The "expected" atmospheric state communicated by climate is produced by averaging many weather observations over a long period of time and supplementing these averages with measures of variability.
+        Trends in averages and variability can be tracked over time and understood in the context of Earth's atmosphere's relationships with the Sun and the planet's surface.
+    </p>
+
+    <p>
+        While we will focus on meteorology and climatology in this textbook about weather and climate,
+        it is worth keeping in mind that atmospheric science is much broader than these two sub-fields:
+        It also encompasses <url href="https://glossary.ametsoc.org/wiki/physical-meteorology/">atmospheric physics</url>,
+        <url href="https://glossary.ametsoc.org/wiki/atmospheric-chemistry/">atmospheric chemistry</url>,
+        <url href="https://glossary.ametsoc.org/wiki/aeronomy/">aeronomy</url>,
+        <url href="https://glossary.ametsoc.org/wiki/hydrometeorology/">hydrometeorology</url>,
+        <url href="https://glossary.ametsoc.org/wiki/biometeorology/">biometeorology</url>,
+        atmospheric measurement and instrumentation,
+        and planetary atmospheric science.
+    </p>
+
+    <p>
+        In this textbook, we will discuss fundamental topics of atmospheric science, including meteorology and climatology,
+        to help you gain a deeper understanding of Earth's atmosphere and how it produces the weather you experience on a daily basis and the climate you are used to.
+    </p>
+
 </section>
