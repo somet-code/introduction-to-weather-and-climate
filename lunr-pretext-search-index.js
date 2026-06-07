@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Weather and climate",
-  "body": " Weather and climate  Now that you have some background in the sub-fields of atmospheric science and their foci, you might ask: What is the difference between weather and climate?  This question is less easily answered than it might seem at first glance, because weather and climate are not perfectly separate. Both describe the ever-changing state of Earth's atmosphere using properties like temperature, humidity, pressure, wind speed, wind direction, visibility, cloud cover, and accumulated precipitation, and both are driven by the atmosphere's interactions with sunlight and the planet's underlying land and water surfaces as well as by processes that occur within the atmosphere itself.  As introduced in the previous section , the major difference between weather and climate lies in their relationship with time. Weather is the state of Earth's atmosphere at a location or over a contiguous geographic region of interest observed during a short period of time. We can sense this short-term atmospheric state with our bodies and measure it with meteorological instruments like thermometers , hygrometers , barometers , and anemometers . Climate is the long-term average and other statistical depictions of these short-term atmospheric states. Even when considering the difference between weather and climate, we see they are connected, as climate comes from an aggregation of weather.  To further illustrate the similarity and difference between weather and climate, consider this analogy: Climate is like the average score on a midterm exam in a certain college course. For example, imagine that in a certain college course, the average score on the midterm exam is 79%. Weather is like the score each individual student in the course actually earns on the midterm exam, which could be equal or close to the average score for some students and very different from the average score for other students. For example, maybe you are in this hypothetical course and earn a 92% on the midterm exam—well above the average score! A student might expect to score close to average, but whether they actually do or not is another matter. Furthermore, climate includes other statistical measures: In our analogy, these could be the minimum and maximum midterm exam scores and the standard deviation of the exam scores from the average score. These additional measures provide insight into how individual exam scores tend to vary from the average score.  Here is another similarity between weather and climate: Both change over time. If weather and climate did not change, we would not need to study and predict them, because Earth's atmosphere's future state always would equal its current state! Continuing with the analogy above, we expect individual scores on the midterm exam to change from semester to semester, and this could cause the average exam score to change from semester to semester. Some reasons for these changes would be related to individual students: For example, a student taking the exam might be having a bad day that makes it difficult for them to focus on the exam, while another student taking the exam might be having a good day and feel motivated to complete the exam with gusto. We would expect these individual factors to be random and generally cancel each other out. Perhaps more interesting are factors external to the course (for example, maybe the prerequisite requirements for the course change, and students who join the course after this change are better prepared for its content and generally score higher on the midterm exam) and internal to the course (for example, maybe the students in the course start meeting once a week for a group study session and consequently learn the material better and generally score higher on the midterm exam) that could cause larger trends by influencing many students' exam performance in a single direction, thus leading to a change in the average midterm exam score and perhaps to other changes in measures of variability. For each of the examples given previously, we would expect the average midterm exam score to increase, and perhaps for the variation among students to decrease.  Climate can change in response to external forces and internal variability, like the increase in the average midterm exam score due to the course's prerequisite requirements and the students' participation in extra study sessions, respectively. Weather is how the general conditions set by climate play out in real-time, coupled with more local effects. This is like how each individual student's midterm exam score is affected by their prior preparation and participation in extra study sessions as well as by whether they are having a good day or a bad day on the day of the exam, if they got a full night's sleep before the exam or pulled an all-nighter, if they were focused or distracted during the exam, etc.  Discussions of climate generally will be featured earlier in this textbook, as climate provides a reference atmospheric state against which to contextualize weather. Weather will be focused on more heavily in later chapters.    Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?     Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?     "
+  "body": " Weather and climate  Now that you have some background in the sub-fields of atmospheric science and their foci, you might ask: What is the difference between weather and climate?  This question is less easily answered than it might seem at first glance, because weather and climate are not perfectly separate. Both describe the ever-changing state of Earth's atmosphere using properties like temperature, humidity, pressure, wind speed, wind direction, visibility, cloud cover, and accumulated precipitation, and both are driven by the atmosphere's interactions with sunlight and the planet's underlying land and water surfaces as well as by processes that occur within the atmosphere itself.  As introduced in the previous section , the major difference between weather and climate lies in their relationship with time. Weather is the state of Earth's atmosphere at a location or over a contiguous geographic region of interest observed during a short period of time. We can sense this short-term atmospheric state with our bodies and measure it with meteorological instruments like thermometers , hygrometers , barometers , and anemometers . Climate is the long-term average and other statistical depictions of these short-term atmospheric states. Even when considering the difference between weather and climate, we see they are connected, as climate comes from an aggregation of weather.  To further illustrate the similarity and difference between weather and climate, consider this analogy: Climate is like the average score on a midterm exam in a certain college course. For example, imagine that in a certain college course, the average score on the midterm exam is 79%. Weather is like the score each individual student in the course actually earns on the midterm exam, which could be equal or close to the average score for some students and very different from the average score for other students. For example, maybe you are in this hypothetical course and earn a 92% on the midterm exam—well above the average score! A student might expect to score close to average, but whether they actually do or not is another matter. Furthermore, climate includes other statistical measures: In our analogy, these could be the minimum and maximum midterm exam scores and the standard deviation of the exam scores from the average score. These additional measures provide insight into how individual exam scores tend to vary from the average score.  Here is another similarity between weather and climate: Both change over time. If weather and climate did not change, we would not need to study and predict them, because Earth's atmosphere's future state always would equal its current state! Continuing with the analogy above, we expect individual scores on the midterm exam to change from semester to semester, and this could cause the average exam score to change from semester to semester. Some reasons for these changes would be related to individual students: For example, a student taking the exam might be having a bad day that makes it difficult for them to focus on the exam, while another student taking the exam might be having a good day and feel motivated to complete the exam with gusto. We would expect these individual factors to be random and generally cancel each other out. Perhaps more interesting are factors external to the course (for example, maybe the prerequisite requirements for the course change, and students who join the course after this change are better prepared for its content and generally score higher on the midterm exam) and internal to the course (for example, maybe the students in the course start meeting once a week for a group study session and consequently learn the material better and generally score higher on the midterm exam) that could cause larger trends by influencing many students' exam performance in a single direction, thus leading to a change in the average midterm exam score and perhaps to other changes in measures of variability. For each of the examples given previously, we would expect the average midterm exam score to increase, and perhaps for the variation among students to decrease.  Climate can change in response to external forces and internal variability, like the increase in the average midterm exam score due to the course's prerequisite requirements and the students' participation in extra study sessions, respectively. Weather is how the general conditions set by climate play out in real-time, coupled with more local effects. This is like how each individual student's midterm exam score is affected by their prior preparation and participation in extra study sessions as well as by whether they are having a good day or a bad day on the day of the exam, if they got a full night's sleep before the exam or pulled an all-nighter, if they were focused or distracted during the exam, etc.  Discussions of climate generally will be featured earlier in this textbook, as climate provides a reference atmospheric state against which to contextualize weather. Weather will be focused on more heavily in later chapters.    Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or another source using the knowledge you build from working through this textbook?     Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or another source using the knowledge you build from working through this textbook?     "
 },
 {
   "id": "ch1-section-weather-climate-4",
@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.3.1",
   "title": "Weather-related topic.",
-  "body": " Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?   "
+  "body": " Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or another source using the knowledge you build from working through this textbook?   "
 },
 {
   "id": "ch1-section-weather-climate-9-2",
@@ -124,16 +124,97 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1.3.2",
   "title": "Climate-related topic.",
-  "body": " Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?   "
+  "body": " Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or another source using the knowledge you build from working through this textbook?   "
+},
+{
+  "id": "ch1-section-modeling",
+  "level": "1",
+  "url": "ch1-section-modeling.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Modeling",
+  "body": " Modeling  Throughout this textbook, we frequently will make use of models to aid our understanding of atmospheric state and processes. A model is a representation of some aspect of reality. This representation simplifies and therefore approximates rather than exactly captures its much more complicated corresponding reality. Although simplification prevents a model from perfectly capturing reality, the simplification it provides promotes better understanding of the corresponding reality and, in some cases, allows for experimentation. We use models constantly in our lives to understand the world around us, ourselves and others living in it, and our interactions with all of the above.  Models typically are categorized as physical or conceptual. A physical model mimics the most significant aspects of its corporeal counterpart, often in miniature form. Physical models include model cars, trains, airplanes, and ships; dioramas of the solar system; mannequins; miniaturized buildings; model atoms and molecules; wind tunnels; tornadoes in bottles and tornado chambers; clouds in bottles; and desktop globes. An example of this last type of physical model is shown along with its corresponding reality in below.   Photograph of a desktop globe (a) and a GeoColor satellite image from 15:20Z on May 14, 2025 collected by GOES-West of the half of Earth centered over the Pacific Ocean (b). The desktop globe is a physical model of the real planet Earth. Figure sources  Figure sources       A desktop globe.       The half of Earth centered over the Pacific Ocean.      A conceptual model abstracts reality and does not necessarily have an exact physical analog. Conceptual models include mathematical equations; computer code; calendars and planners; procedures made of steps, such as the instructions to assemble a piece of furniture; the Model United Nations; flight simulators; the water cycle and the carbon cycle ; diagrams like blueprints, flow charts, organizational charts, and anatomical diagrams; and a website's sitemap. An example of computer code is shown in below.   Photograph of several lines of computer code displayed on a computer screen. Figure sources    Computer code.    While physical models like wind tunnels , tornado chambers , water-filled tanks , and large missile cannons are used to great effect to approximate atmospheric processes, the majority of models used in atmospheric science are conceptual models, most frequently in the form of mathematical equations, diagrams, procedures, cycles, and computer code. Conceptual models have progressed understanding of the atmosphere by leaps and bounds: For example, much of our understanding of how tornadoes form comes from computer simulations of tornadoes produced by number-crunching mathematical equations that describe atmospheric motions. Observing and measuring simulated tornadoes is much safer and more straightforward than observing and measuring real tornadoes and enables experimentation with the modeled atmospheric conditions. These simulations exist wholly in computer representations of mathematical equations, although they can be compared to observations of real tornadoes.  We will employ various conceptual models in this textbook, usually in the form of mathematical equations and diagrams. Mathematical models used herein will be limited to introductory maths like arithmetic, elementary algebra, and descriptive statistics, but it is important to keep in mind that atmospheric scientists also mathematically model the atmosphere use advanced maths like calculus, differential equations, linear algebra, inferential and Bayesian statistics, numerical analysis, and others that are beyond the scope of this textbook. Diagrams of various types, including charts and maps, will be used frequently.    Modeling in your own life   Describe a model you have used in your own life, classify it as a physical model or conceptual model, and explain how you used it.     "
+},
+{
+  "id": "ch1-section-modeling-2",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-section-modeling-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "model "
+},
+{
+  "id": "ch1-section-modeling-3",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-section-modeling-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "physical model "
+},
+{
+  "id": "ch1-model-figure",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-model-figure",
+  "type": "Figure",
+  "number": "1.4.1",
+  "title": "",
+  "body": " Photograph of a desktop globe (a) and a GeoColor satellite image from 15:20Z on May 14, 2025 collected by GOES-West of the half of Earth centered over the Pacific Ocean (b). The desktop globe is a physical model of the real planet Earth. Figure sources  Figure sources       A desktop globe.       The half of Earth centered over the Pacific Ocean.     "
+},
+{
+  "id": "ch1-section-modeling-5",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-section-modeling-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conceptual model "
+},
+{
+  "id": "ch1-computer-code-figure",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-computer-code-figure",
+  "type": "Figure",
+  "number": "1.4.2",
+  "title": "",
+  "body": " Photograph of several lines of computer code displayed on a computer screen. Figure sources    Computer code.   "
+},
+{
+  "id": "ch1-section-modeling-9-1",
+  "level": "2",
+  "url": "ch1-section-modeling.html#ch1-section-modeling-9-1",
+  "type": "Exercise",
+  "number": "1.4.1",
+  "title": "Modeling in your own life.",
+  "body": " Modeling in your own life   Describe a model you have used in your own life, classify it as a physical model or conceptual model, and explain how you used it.   "
+},
+{
+  "id": "ch1-section-looking-ahead",
+  "level": "1",
+  "url": "ch1-section-looking-ahead.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Looking ahead",
+  "body": " Looking ahead  In Chapter 2 , we will dig deeper into the composition and structure of Earth's atmosphere, using a conceptual model of the atmosphere to assist us. This will give us necessary background for exploring through the rest of the textbook how Earth's atmosphere produces weather and climate.  "
 },
 {
   "id": "ch1-section-figure-sources",
   "level": "1",
   "url": "ch1-section-figure-sources.html",
   "type": "Section",
-  "number": "1.4",
+  "number": "1.6",
   "title": "Figure sources",
-  "body": " Figure sources     Earth's limb  Astronaut photograph ISS028-E-020072 was acquired on July 31, 2011, with a Nikon D3S digital camera using a 400 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center. The image was taken by the Expedition 28 crew . The image has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA\/JSC Gateway to Astronaut Photography of Earth . Caption by Mike Carlowicz. Licensed under NASA Images and Media Usage Guidelines . Accessed via NASA Earth Observatory .     "
+  "body": " Figure sources     Earth's limb  Astronaut photograph ISS028-E-020072 was acquired on July 31, 2011, with a Nikon D3S digital camera using a 400 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center. The image was taken by the Expedition 28 crew . The image has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA\/JSC Gateway to Astronaut Photography of Earth . Caption by Mike Carlowicz. Licensed under NASA Images and Media Usage Guidelines . Accessed via NASA Earth Observatory .    Desktop globe  Photograph by Subhash Nusetti , licensed under the Unsplash license . Accessed via Unsplash .    Globe  GeoColor image by NOAA\/NESDIS Center for Satellite Applications and Research from the GOES-West satellite measurements. Licensed under NOAA NESDIS STAR usage policy . Accessed via GOES Image Viewer .    Computer code  Photograph by Chris Ried , licensed under the Unsplash license . Accessed via Unsplash .     "
+},
+{
+  "id": "chapter-2",
+  "level": "1",
+  "url": "chapter-2.html",
+  "type": "Chapter",
+  "number": "2",
+  "title": "Atmospheric Composition",
+  "body": " Atmospheric Composition  "
 },
 {
   "id": "backmatter-2",
@@ -142,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Glossary",
   "number": "",
   "title": "Glossary",
-  "body": " Glossary   anemometer  An instrument that measures wind speed and wind direction.    atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    barometer  An instrument that measures atmospheric pressure.    celestial body  A coherent collection of matter located in outer space.    climate  A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    hygrometer  An instrument that measures humidity.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.    thermometer  An instrument that measures temperature.    weather  The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.   "
+  "body": " Glossary   anemometer  An instrument that measures wind speed and wind direction.    atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    barometer  An instrument that measures atmospheric pressure.    celestial body  A coherent collection of matter located in outer space.    climate  A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    conceptual model  A model that abstracts its real-life counterpart, which may not have corporeal form.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    hygrometer  An instrument that measures humidity.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    model  A simplified representation of an object, person, system, process, or other aspect of reality that assists with understanding and prediction of the real counterpart.    physical model  A model that mimics the structural characteristics of its real-life counterpart.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.    thermometer  An instrument that measures temperature.    weather  The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.   "
 },
 {
   "id": "backmatter-3",
