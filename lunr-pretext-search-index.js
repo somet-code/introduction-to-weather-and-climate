@@ -46,11 +46,56 @@ var ptx_lunr_docs = [
   "body": "precipitation limb "
 },
 {
+  "id": "ch1-section-atmospheric-science-meteorology-climatology",
+  "level": "1",
+  "url": "ch1-section-atmospheric-science-meteorology-climatology.html",
+  "type": "Section",
+  "number": "1.2",
+  "title": "Atmospheric science, meteorology, and climatology",
+  "body": " Atmospheric science, meteorology, and climatology   Atmospheric science is a broad field of study, with many specialized sub-fields. To differentiate a couple of sub-fields most relevant to this textbook, we will refer to definitions commonly used in the field of atmospheric science.  Many fields scientific or otherwise are supported by large professional societies. The American Meteorological Society is a professional society that supports atmospheric science. They advance weather, water, and climate science by providing by providing their nearly 12,000 members with a variety of professional development and educational resources. One of these resources is the Glossary of Meteorology , which is a peer-reviewed compendium of definitions relevant to weather, water, and climate science. We will point you to the Glossary of Meteorology as the authoritative source of definitions for many concepts discussed in this textbook, beginning with the definitions of atmospheric science, meteorology, and climatology.  In their Glossary of Meteorology , the American Meteorological Society defines atmospheric science as the study of the physics, chemistry, and dynamics of Earth's atmosphere. This definition makes it clear that studying Earth's atmosphere requires applying the principles of physics and chemistry to the mainly-gaseous envelope surrounding the planet.   Meteorology , as the sub-field of atmospheric science that focuses on studying, describing, and predicting the \"everyday weather\" we experience at or relatively close to Earth's surface, might be the most familiar part of the science. While the American Meteorological Society's definition of meteorology covers many of the same aspects as its definition of atmospheric science, they specifically note the importance of the accurate prediction of atmospheric phenomena to meteorology. Such predictions require understanding and measuring the composition, structure, and motion of Earth's atmosphere.   Climatology , which also is called climate science, is the sub-field of atmospheric science that focuses on studying, describing, and predicting or projecting Earth's climate. Unlike weather, which is experienced in real-time, climate is a statistical concept constructed from many observations of weather combined over a long period of time. A quote often attributed to Mark Twain sums up the contrast between weather and climate: The climate is what you expect; the weather is what you get. The \"expected\" atmospheric state communicated by climate is produced by averaging many weather observations over a long period of time and supplementing these averages with measures of variability. Trends in averages and variability can be tracked over time and understood in the context of Earth's atmosphere's relationships with the Sun and the planet's surface.  While we will focus on meteorology and climatology in this textbook about weather and climate, it is worth keeping in mind that atmospheric science is much broader than these two sub-fields: It also encompasses atmospheric physics , atmospheric chemistry , aeronomy , hydrometeorology , biometeorology , atmospheric measurement and instrumentation, and planetary atmospheric science.  In this textbook, we will discuss fundamental topics of atmospheric science, including meteorology and climatology, to help you gain a deeper understanding of Earth's atmosphere and how it produces the weather you experience on a daily basis and the climate you are used to.  "
+},
+{
+  "id": "ch1-section-atmospheric-science-meteorology-climatology-2",
+  "level": "2",
+  "url": "ch1-section-atmospheric-science-meteorology-climatology.html#ch1-section-atmospheric-science-meteorology-climatology-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Atmospheric science "
+},
+{
+  "id": "ch1-section-atmospheric-science-meteorology-climatology-3",
+  "level": "2",
+  "url": "ch1-section-atmospheric-science-meteorology-climatology.html#ch1-section-atmospheric-science-meteorology-climatology-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "professional society "
+},
+{
+  "id": "ch1-section-atmospheric-science-meteorology-climatology-5",
+  "level": "2",
+  "url": "ch1-section-atmospheric-science-meteorology-climatology.html#ch1-section-atmospheric-science-meteorology-climatology-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Meteorology "
+},
+{
+  "id": "ch1-section-atmospheric-science-meteorology-climatology-6",
+  "level": "2",
+  "url": "ch1-section-atmospheric-science-meteorology-climatology.html#ch1-section-atmospheric-science-meteorology-climatology-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Climatology "
+},
+{
   "id": "ch1-section-figure-sources",
   "level": "1",
   "url": "ch1-section-figure-sources.html",
   "type": "Section",
-  "number": "1.2",
+  "number": "1.3",
   "title": "Figure sources",
   "body": " Figure sources     Earth's limb  Astronaut photograph ISS028-E-020072 was acquired on July 31, 2011, with a Nikon D3S digital camera using a 400 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center. The image was taken by the Expedition 28 crew . The image has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA\/JSC Gateway to Astronaut Photography of Earth . Caption by Mike Carlowicz. Licensed under NASA Images and Media Usage Guidelines . Accessed via NASA Earth Observatory .     "
 },
@@ -61,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Glossary",
   "number": "",
   "title": "Glossary",
-  "body": " Glossary   atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    celestial body  A coherent collection of matter located in outer space.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.   "
+  "body": " Glossary   atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    celestial body  A coherent collection of matter located in outer space.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.   "
 },
 {
   "id": "backmatter-3",
