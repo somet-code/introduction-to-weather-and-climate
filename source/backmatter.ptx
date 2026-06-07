@@ -18,6 +18,13 @@
 
   <glossary>
     <title>Glossary</title>
+
+    <gi xml:id="term-anemometer">
+      <title>anemometer</title>
+      <p>
+        An instrument that measures wind speed and wind direction.
+      </p>
+    </gi>
     <gi xml:id="term-atmosphere">
       <title>atmosphere</title>
       <p>
@@ -30,10 +37,22 @@
         The scientific study of the chemistry and physics of atmospheres.
       </p>
     </gi>
+    <gi xml:id="term-barometer">
+      <title>barometer</title>
+      <p>
+        An instrument that measures atmospheric pressure.
+      </p>
+    </gi>
     <gi xml:id="term-celestial-body">
       <title>celestial body</title>
       <p>
         A coherent collection of matter located in outer space.
+      </p>
+    </gi>
+    <gi xml:id="term-climate">
+      <title>climate</title>
+      <p>
+        A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.
       </p>
     </gi>
     <gi xml:id="term-climatology">
@@ -46,6 +65,12 @@
       <title>gravitational force</title>
       <p>
         The attractive force due to a physical body's mass that pulls other physical bodies toward its center.
+      </p>
+    </gi>
+    <gi xml:id="term-hygrometer">
+      <title>hygrometer</title>
+      <p>
+        An instrument that measures humidity.
       </p>
     </gi>
     <gi xml:id="term-limb">
@@ -70,6 +95,18 @@
       <title>professional society</title>
       <p>
         An organization that promotes the work, interests, and advancements of a particular profession.
+      </p>
+    </gi>
+    <gi xml:id="term-thermometer">
+      <title>thermometer</title>
+      <p>
+        An instrument that measures temperature.
+      </p>
+    </gi>
+    <gi xml:id="term-weather">
+      <title>weather</title>
+      <p>
+        The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.
       </p>
     </gi>
   </glossary>
