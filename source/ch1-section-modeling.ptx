@@ -50,4 +50,67 @@
             </figure>
         </sidebyside>
     </figure>
+
+    <p>
+        A <term><xref ref="term-conceptual-model" text="custom">conceptual model</xref></term> abstracts reality and does not necessarily have an exact physical analog.
+        Conceptual models include mathematical equations;
+        computer code;
+        calendars and planners;
+        procedures made of steps, such as the instructions to assemble a piece of furniture;
+        the Model United Nations;
+        flight simulators;
+        the <url href="https://www.noaa.gov/jetstream/max-what-cycle">water cycle</url>
+        and the <url href="https://science.nasa.gov/earth/earth-observatory/the-carbon-cycle/">carbon cycle</url>;
+        diagrams like blueprints, flow charts, organizational charts, and anatomical diagrams;
+        and a website's sitemap.
+        An example of computer code is shown in <xref ref="ch1-computer-code-figure" text="type-global"/> below.
+    </p>
+
+    <figure xml:id="ch1-computer-code-figure">
+        <caption>
+            Photograph of several lines of computer code displayed on a computer screen.
+            <xref ref="ch1-computer-code-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch1_fig3_computer_code.jpg" width="80%">
+            <shortdescription>Computer code.</shortdescription>
+        </image>
+    </figure>
+
+    <p>
+        While physical models like <url href="https://www.weather.gov/soic/windtunnel">wind tunnels</url>,
+        <url href="https://preview.weather.gov/media/hun/outreach/experiements/TornadoMachinePlans.pdf">tornado chambers</url>,
+        <url href="http://weathertank.mit.edu/">water-filled tanks</url>,
+        and <url href="https://www.depts.ttu.edu/nwi/research/DebrisImpact/Reports/TTU_Final_NIST_Report_numbered.pdf">large missile cannons</url>
+        are used to great effect to approximate atmospheric processes,
+        the majority of models used in atmospheric science are conceptual models,
+        most frequently in the form of mathematical equations, diagrams, procedures, cycles, and computer code.
+        Conceptual models have progressed understanding of the atmosphere by leaps and bounds:
+        For example, much of our understanding of how tornadoes form comes from computer simulations of tornadoes produced by number-crunching mathematical equations that describe atmospheric motions.
+        Observing and measuring simulated tornadoes is much safer and more straightforward than observing and measuring real tornadoes and enables experimentation with the modeled atmospheric conditions.
+        These simulations exist wholly in computer representations of mathematical equations,
+        although they can be compared to observations of real tornadoes.
+    </p>
+
+    <p>
+        We will employ various conceptual models in this textbook,
+        usually in the form of mathematical equations and diagrams.
+        Mathematical models used herein will be limited to introductory maths like arithmetic, elementary algebra, and descriptive statistics,
+        but it is important to keep in mind that atmospheric scientists also mathematically model the atmosphere use advanced maths like calculus, differential equations, linear algebra, inferential and Bayesian statistics, numerical analysis, and others that are beyond the scope of this textbook.
+        Diagrams of various types, including charts and maps, will be used frequently.
+    </p>
+
+    <exercises>
+        <exercise>
+            <title>Modeling in your own life</title>
+            <statement>
+                <p>
+                    Describe a model you have used in your own life,
+                    classify it as a physical model or conceptual model,
+                    and explain how you used it.
+                </p>
+            </statement>
+        </exercise>
+        
+    </exercises>
+
 </section>
