@@ -17,7 +17,7 @@
 
   <!-- include sections -->
   <xi:include href="ch1-section-atmosphere.ptx" />
-  <xi:include href="ch1-atmospheric-science-meteorology-climatology.ptx" />
+  <xi:include href="ch1-section-atmospheric-science-meteorology-climatology.ptx" />
   <xi:include href="ch1-section-weather-climate.ptx" />
   <xi:include href="ch1-section-figure-sources.ptx" />
 
