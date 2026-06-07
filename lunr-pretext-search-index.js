@@ -91,11 +91,47 @@ var ptx_lunr_docs = [
   "body": "Climatology "
 },
 {
+  "id": "ch1-section-weather-climate",
+  "level": "1",
+  "url": "ch1-section-weather-climate.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Weather and climate",
+  "body": " Weather and climate  Now that you have some background in the sub-fields of atmospheric science and their foci, you might ask: What is the difference between weather and climate?  This question is less easily answered than it might seem at first glance, because weather and climate are not perfectly separate. Both describe the ever-changing state of Earth's atmosphere using properties like temperature, humidity, pressure, wind speed, wind direction, visibility, cloud cover, and accumulated precipitation, and both are driven by the atmosphere's interactions with sunlight and the planet's underlying land and water surfaces as well as by processes that occur within the atmosphere itself.  As introduced in the previous section , the major difference between weather and climate lies in their relationship with time. Weather is the state of Earth's atmosphere at a location or over a contiguous geographic region of interest observed during a short period of time. We can sense this short-term atmospheric state with our bodies and measure it with meteorological instruments like thermometers , hygrometers , barometers , and anemometers . Climate is the long-term average and other statistical depictions of these short-term atmospheric states. Even when considering the difference between weather and climate, we see they are connected, as climate comes from an aggregation of weather.  To further illustrate the similarity and difference between weather and climate, consider this analogy: Climate is like the average score on a midterm exam in a certain college course. For example, imagine that in a certain college course, the average score on the midterm exam is 79%. Weather is like the score each individual student in the course actually earns on the midterm exam, which could be equal or close to the average score for some students and very different from the average score for other students. For example, maybe you are in this hypothetical course and earn a 92% on the midterm exam—well above the average score! A student might expect to score close to average, but whether they actually do or not is another matter. Furthermore, climate includes other statistical measures: In our analogy, these could be the minimum and maximum midterm exam scores and the standard deviation of the exam scores from the average score. These additional measures provide insight into how individual exam scores tend to vary from the average score.  Here is another similarity between weather and climate: Both change over time. If weather and climate did not change, we would not need to study and predict them, because Earth's atmosphere's future state always would equal its current state! Continuing with the analogy above, we expect individual scores on the midterm exam to change from semester to semester, and this could cause the average exam score to change from semester to semester. Some reasons for these changes would be related to individual students: For example, a student taking the exam might be having a bad day that makes it difficult for them to focus on the exam, while another student taking the exam might be having a good day and feel motivated to complete the exam with gusto. We would expect these individual factors to be random and generally cancel each other out. Perhaps more interesting are factors external to the course (for example, maybe the prerequisite requirements for the course change, and students who join the course after this change are better prepared for its content and generally score higher on the midterm exam) and internal to the course (for example, maybe the students in the course start meeting once a week for a group study session and consequently learn the material better and generally score higher on the midterm exam) that could cause larger trends by influencing many students' exam performance in a single direction, thus leading to a change in the average midterm exam score and perhaps to other changes in measures of variability. For each of the examples given previously, we would expect the average midterm exam score to increase, and perhaps for the variation among students to decrease.  Climate can change in response to external forces and internal variability, like the increase in the average midterm exam score due to the course's prerequisite requirements and the students' participation in extra study sessions, respectively. Weather is how the general conditions set by climate play out in real-time, coupled with more local effects. This is like how each individual student's midterm exam score is affected by their prior preparation and participation in extra study sessions as well as by whether they are having a good day or a bad day on the day of the exam, if they got a full night's sleep before the exam or pulled an all-nighter, if they were focused or distracted during the exam, etc.  Discussions of climate generally will be featured earlier in this textbook, as climate provides a reference atmospheric state against which to contextualize weather. Weather will be focused on more heavily in later chapters.    Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?     Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?     "
+},
+{
+  "id": "ch1-section-weather-climate-4",
+  "level": "2",
+  "url": "ch1-section-weather-climate.html#ch1-section-weather-climate-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Weather thermometers hygrometers barometers anemometers Climate "
+},
+{
+  "id": "ch1-section-weather-climate-9-1",
+  "level": "2",
+  "url": "ch1-section-weather-climate.html#ch1-section-weather-climate-9-1",
+  "type": "Exercise",
+  "number": "1.3.1",
+  "title": "Weather-related topic.",
+  "body": " Weather-related topic   What is a weather-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?   "
+},
+{
+  "id": "ch1-section-weather-climate-9-2",
+  "level": "2",
+  "url": "ch1-section-weather-climate.html#ch1-section-weather-climate-9-2",
+  "type": "Exercise",
+  "number": "1.3.2",
+  "title": "Climate-related topic.",
+  "body": " Climate-related topic   What is a climate-related topic you hope to learn about in this textbook or or another source using the knowledge you build from working through this textbook?   "
+},
+{
   "id": "ch1-section-figure-sources",
   "level": "1",
   "url": "ch1-section-figure-sources.html",
   "type": "Section",
-  "number": "1.3",
+  "number": "1.4",
   "title": "Figure sources",
   "body": " Figure sources     Earth's limb  Astronaut photograph ISS028-E-020072 was acquired on July 31, 2011, with a Nikon D3S digital camera using a 400 mm lens, and is provided by the ISS Crew Earth Observations experiment and Image Science & Analysis Laboratory, Johnson Space Center. The image was taken by the Expedition 28 crew . The image has been cropped and enhanced to improve contrast. Lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Laboratory to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA\/JSC Gateway to Astronaut Photography of Earth . Caption by Mike Carlowicz. Licensed under NASA Images and Media Usage Guidelines . Accessed via NASA Earth Observatory .     "
 },
@@ -106,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Glossary",
   "number": "",
   "title": "Glossary",
-  "body": " Glossary   atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    celestial body  A coherent collection of matter located in outer space.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.   "
+  "body": " Glossary   anemometer  An instrument that measures wind speed and wind direction.    atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    barometer  An instrument that measures atmospheric pressure.    celestial body  A coherent collection of matter located in outer space.    climate  A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    hygrometer  An instrument that measures humidity.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.    thermometer  An instrument that measures temperature.    weather  The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.   "
 },
 {
   "id": "backmatter-3",
