@@ -2,6 +2,7 @@
 
 <section xml:id="ch1-section-figure-sources" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Figure sources</title>
+
     <p>
         <ol>
             <li xml:id="ch1-atmosphere-figure-source">
@@ -26,4 +27,5 @@
             </li>
         </ol>
     </p>
+    
 </section>
