@@ -85,6 +85,18 @@
         The sub-field of atmospheric science that focuses on studying and predicting weather.
       </p>
     </gi>
+    <gi xml:id="term-model">
+      <title>model</title>
+      <p>
+        A simplified representation of an object, person, system, process, or other aspect of reality that assists with understanding and prediction of the real counterpart.
+      </p>
+    </gi>
+    <gi xml:id="term-physical-model">
+      <title>physical model</title>
+      <p>
+        A model that mimics the structural characteristics of its real-life counterpart.
+      </p>
+    </gi>
     <gi xml:id="term-precipitation">
       <title>precipitation</title>
       <p>

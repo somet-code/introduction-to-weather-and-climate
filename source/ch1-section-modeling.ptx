@@ -3,4 +3,27 @@
 <section xml:id="ch1-section-modeling" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Modeling</title>
 
+    <p>
+        Throughout this textbook, we frequently will make use of models to aid our understanding of atmospheric state and processes.
+        A <term><xref ref="term-model" text="custom">model</xref></term> is a representation of some aspect of reality.
+        This representation simplifies<mdash/>and therefore approximates rather than exactly captures<mdash/>its much more complicated corresponding reality.
+        Although simplification prevents a model from perfectly capturing reality,
+        the simplification it provides promotes better understanding of the corresponding reality and, in some cases, allows for experimentation.
+        We use models constantly in our lives to understand the world around us, ourselves and others living in it, and our interactions with all of the above.
+    </p>
+
+    <p>
+        Models typically are categorized as physical or conceptual.
+        A <term><xref ref="term-physical-model" text="custom">physical model</xref></term> mimics the most significant aspects of its corporeal counterpart,
+        often in miniature form.
+        Physical models include model cars, trains, airplanes, and ships;
+        dioramas of the solar system; mannequins;
+        miniaturized buildings;
+        model atoms and molecules;
+        wind tunnels;
+        tornadoes in bottles and tornado chambers;
+        clouds in bottles;
+        and desktop globes.
+        An example of this last type of physical model is shown along with its corresponding reality in Fig. 2a below.
+    </p>
 </section>
