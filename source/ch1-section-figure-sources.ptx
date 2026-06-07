@@ -25,6 +25,22 @@
                     Accessed via <url href="https://earthobservatory.nasa.gov/images/76534/hovering-on-the-horizon">NASA Earth Observatory</url>.
                 </p>
             </li>
+            <li xml:id="ch1-desktop-globe-figure-source">
+                <title>Desktop globe</title>
+                <p>
+                    Photograph by <url href="https://unsplash.com/@subhashnusetti">Subhash Nusetti</url>,
+                    licensed under the <url href="https://unsplash.com/license">Unsplash license</url>.
+                    Accessed via <url href="https://unsplash.com/photos/desk-globe-on-white-table-9tmrYLRL7Ww">Unsplash</url>.
+                </p>
+            </li>
+            <li xml:id="ch1-globe-figure-source">
+                <title>Globe</title>
+                <p>
+                    GeoColor image by NOAA/NESDIS Center for Satellite Applications and Research from the GOES-West satellite measurements.
+                    Licensed under <url href="https://www.star.nesdis.noaa.gov/star/productdisclaimer.php">NOAA NESDIS STAR usage policy</url>.
+                    Accessed via <url href="https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G18">GOES Image Viewer</url>.
+                </p>
+            </li>
         </ol>
     </p>
     

@@ -24,6 +24,30 @@
         tornadoes in bottles and tornado chambers;
         clouds in bottles;
         and desktop globes.
-        An example of this last type of physical model is shown along with its corresponding reality in Fig. 2a below.
+        An example of this last type of physical model is shown along with its corresponding reality in <xref ref="ch1-model-figure " text="type-global"/> below.
     </p>
+
+    <figure xml:id="ch1-model-figure">
+        <caption>
+            Photograph of a desktop globe (a)
+            and a GeoColor satellite image from 15:20Z on May 14, 2025 collected by GOES-West of the half of Earth centered over the Pacific Ocean (b).
+            The desktop globe is a physical model of the real planet Earth.
+            <xref ref="ch1-desktop-globe-figure-source" text="type-local">Figure sources</xref>
+            <xref ref="ch1-globe-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <sidebyside>
+            <figure xml:id="ch1-model-figure-a">
+                <caption/>
+                <image source="images/ch1_fig2a_globe_model.png">
+                    <shortdescription>A desktop globe.</shortdescription>
+                </image>
+            </figure>
+            <figure xml:id="ch1-model-figure-b">
+                <caption/>
+                <image source="images/ch1_fig2b_globe.png">
+                    <shortdescription>The half of Earth centered over the Pacific Ocean.</shortdescription>
+                </image>
+            </figure>
+        </sidebyside>
+    </figure>
 </section>
