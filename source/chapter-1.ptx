@@ -22,5 +22,6 @@
   <xi:include href="ch1-section-modeling.ptx" />
   <xi:include href="ch1-section-looking-ahead.ptx" />
   <xi:include href="ch1-section-figure-sources.ptx" />
+  <xi:include href="ch1-section-bibliography.ptx" />
 
 </chapter>
