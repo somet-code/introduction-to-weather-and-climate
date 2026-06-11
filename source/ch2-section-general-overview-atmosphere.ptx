@@ -3,4 +3,35 @@
 <section xml:id="ch2-section-general-overview-atmosphere" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>General overview of Earth's atmosphere</title>
 
+    <p>
+        Before we dig into Earth's atmosphere's composition,
+        we will look at some of the big-picture characteristics of Earth's atmosphere using photographs of Earth and its atmosphere taken from <term><xref ref="term-outer-space" text="custom">outer space</xref></term>.
+        This discussion will reveal how Earth's atmosphere is arranged in layers<mdash/>which we will explore in Chapter 5<mdash/>and is rather thin compared to the planet.
+    </p>
+    <p>
+        As we learned in <xref ref="chapter-1" />,
+        an <term><xref ref="term-atmosphere" text="custom">atmosphere</xref></term>
+        is a mixture of mainly gases with lesser amounts of small liquid and solid particles
+        that surrounds a celestial body like a planet and is held close to the planet by the planet's <term><xref ref="term-gravitational-force" text="custom">gravitational force</xref></term>.
+        The particular mixture of gases and other particles found in a planet's atmosphere depends on processes both
+        <term><xref ref="term-celestial-body" text="custom">celestial</xref></term> and <term><xref ref="term-terrestrial" text="custom">terrestrial</xref></term>.
+    </p>
+    <p>
+        Atmospheres have variable depths, and many atmospheres are much thinner than the planets they surround.
+        This is the case for Earth's atmosphere: While the planet Earth is about 12,750 km wide,
+        its atmosphere begins to blend with outer space at only 100 km above the planet's surface!
+        Fig. 1 below shows satellite imagery of Earth on April 8, 2024, the day of the <url href="https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024">Great North American Eclipse</url>.
+        Clouds within Earth's atmosphere are visualized as bright white swirls and patches,
+        but because Earth's atmosphere is so much thinner than the planet, there are no other visual clues in this image that Earth has an atmosphere.
+    </p>
+    <figure xml:id="ch2-eclipse-figure">
+        <caption>
+        Satellite image of the Great North American Eclipse of April 8, 2024.
+        The dark shading near the center of the image shows the location of the eclipse at the time the image was produced.
+        <xref ref="ch2-eclipse-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig1_eclipse.jpg" width="80%">
+        <shortdescription>Half of Earth centered over the Americas, with a brown smudge showing the location of a solar eclipse.</shortdescription>
+        </image>
+    </figure>
 </section>

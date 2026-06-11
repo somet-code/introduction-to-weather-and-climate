@@ -34,7 +34,7 @@
     <gi xml:id="term-atmosphere">
       <title>atmosphere</title>
       <p>
-        A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.
+        A mixture of gases and other particles surrounding a celestial body that are held around the body by the body's gravitational force.
       </p>
     </gi>
     <gi xml:id="term-atmospheric-science">
@@ -47,6 +47,12 @@
       <title>barometer</title>
       <p>
         An instrument that measures atmospheric pressure.
+      </p>
+    </gi>
+    <gi xml:id="term-celestial">
+      <title>celestial</title>
+      <p>
+        Relating to outer space.
       </p>
     </gi>
     <gi xml:id="term-celestial-body">
@@ -103,6 +109,12 @@
         A simplified representation of an object, person, system, process, or other aspect of reality that assists with understanding and prediction of the real counterpart.
       </p>
     </gi>
+    <gi xml:id="term-outer-space">
+      <title>outer space</title>
+      <p>
+        Also called space; the near-vacuum surrounding Earth and other celestial bodies.
+      </p>
+    </gi>
     <gi xml:id="term-physical-model">
       <title>physical model</title>
       <p>
@@ -131,6 +143,12 @@
       <title>standard atmosphere</title>
       <p>
         A representative vertical distributions of atmospheric composition, temperature, pressure, and density.
+      </p>
+    </gi>
+    <gi xml:id="term-terrestrial">
+      <title>terrestrial</title>
+      <p>
+        Relating to a planet.
       </p>
     </gi>
     <gi xml:id="term-thermometer">

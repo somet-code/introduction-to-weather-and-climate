@@ -52,5 +52,6 @@
 
   <!-- include sections -->
   <xi:include href="ch2-section-general-overview-atmosphere.ptx" />
+  <xi:include href="ch2-section-figure-sources.ptx" />
 
 </chapter>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="ch2-section-figure-sources" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Figure sources</title>
+
+    <p>
+        <ol>
+            <li xml:id="ch2-eclipse-figure-source">
+                <title>Great North American Eclipse</title>
+                <p>
+                    This image originally appeared in the NASA Earth Observatory story <url href="https://science.nasa.gov/earth/earth-observatory/total-solar-eclipse-darkens-north-america-152663/"><articletitle>Total Solar Eclipse Darkens North America</articletitle></url>.
+                    NASA Earth Observatory image by <url href="https://science.nasa.gov/earth/earth-observatory/about-the-eo/">Michala Garrison and Wanmei Liang</url>,
+                    using data from <url href="https://epic.gsfc.nasa.gov/">DSCOVR EPIC</url> and VIIRS data from NASA EOSDIS <url href="https://www.earthdata.nasa.gov/data/projects/lance">LANCE</url>,
+                    <url href="https://worldview.earthdata.nasa.gov/">GIBS/Worldview</url>,
+                    and the <url href="https://www.nesdis.noaa.gov/our-satellites/currently-flying/joint-polar-satellite-system">Joint Polar Satellite System</url> (JPSS).
+                    Story by <url href="https://science.nasa.gov/earth/earth-observatory/about-the-eo/">Emily Cassidy</url>.
+                    Licensed under <url href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA Images and Media Usage Guidelines</url>.
+                    Accessed via <url href="https://science.nasa.gov/earth/earth-observatory/total-solar-eclipse-darkens-north-america-152663/">NASA Earth Observatory</url>.
+                </p>
+            </li>
+        </ol>
+    </p>
+</section>
