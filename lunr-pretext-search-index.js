@@ -223,7 +223,43 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "2",
   "title": "Atmospheric Composition",
-  "body": " Atmospheric Composition  "
+  "body": " Atmospheric Composition   Have you noticed that some geographic locations usually are cooler while others tend to be warmer? Likewise, have you noticed that some locations usually are drier while others tend to be more humid? And have you noticed that for some locations these types of conditions are prevalent throughout the year while for others they alternate every few months? These are expressions of the expected atmospheric conditions that characterize different regional climates found across Earth.  Moving onto shorter timescales, have you noticed that, at the location you tend to spend most of your time, the atmosphere can be clear, calm, sunny, and warm one day but cloudy, rainy, and cooler the next? Or have such changes in atmospheric condition occurred more quickly, such as over the course of a single day or even over a few hours or minutes? These are expressions of the rapidly changeable nature of weather.  Given the diversity of climates found across Earth's surface and the wide variety of weather we can experience on a day-to-day basis even at a single location, it should not be surprising to learn that Earth's atmosphere is wonderfully complex. While these complexities make life on this planet interesting, they also make Earth's atmosphere challenging to describe, study, and predict. Consequently, we must make simplifying assumptions about Earth's atmosphere to increase our understanding of its varied phenomena and predict its conditions with accuracy.  To assist with describing, understanding, and predicting atmospheric conditions, atmospheric scientists regularly employ conceptual models as simplified representations of real atmospheric mediums, structures, phenomena, and processes. Atmospheric models provide references against which observations of Earth's atmosphere can be compared, and these references can be updated to improve their accuracy as new observations becomes available.  Beginning in this chapter, we will discuss average conditions in Earth's atmosphere using a conceptual model called a standard atmosphere. A standard atmosphere is an idealized model of the vertical distributions of various properties of Earth's atmosphere such as abundance of gas constituents, temperature, pressure, and density averaged over time and horizontal space. Over the years, many standard atmospheres have been constructed to aid with aircraft design and performance calculations. While a standard atmosphere is meant to represent typical conditions in Earth's atmosphere, any choice of standard atmosphere greatly over-simplifies Earth's real atmosphere and should not be viewed as a perfectly accurate representation of it. Despite being imperfect representations of Earth's real atmosphere, standard atmospheres still are quite useful ask anyone working in aeronautics! because they give us a reference to better understand Earth's atmosphere's properties and how they affect flight as well as weather and climate.  We will introduce aspects of a commonly used standard atmosphere the U.S. Standard Atmosphere in this chapter, and we will return to this standard atmosphere in greater detail in Chapter 5.   "
+},
+{
+  "id": "chapter-2-2-1",
+  "level": "2",
+  "url": "chapter-2.html#chapter-2-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "regional climates "
+},
+{
+  "id": "chapter-2-2-4",
+  "level": "2",
+  "url": "chapter-2.html#chapter-2-2-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "conceptual models "
+},
+{
+  "id": "chapter-2-2-5",
+  "level": "2",
+  "url": "chapter-2.html#chapter-2-2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "standard atmosphere "
+},
+{
+  "id": "chapter-2-2-6",
+  "level": "2",
+  "url": "chapter-2.html#chapter-2-2-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "U.S. Standard Atmosphere "
 },
 {
   "id": "backmatter-2",
@@ -232,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Glossary",
   "number": "",
   "title": "Glossary",
-  "body": " Glossary   anemometer  An instrument that measures wind speed and wind direction.    atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    barometer  An instrument that measures atmospheric pressure.    celestial body  A coherent collection of matter located in outer space.    climate  A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    conceptual model  A model that abstracts its real-life counterpart, which may not have corporeal form.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    hygrometer  An instrument that measures humidity.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    model  A simplified representation of an object, person, system, process, or other aspect of reality that assists with understanding and prediction of the real counterpart.    physical model  A model that mimics the structural characteristics of its real-life counterpart.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.    thermometer  An instrument that measures temperature.    weather  The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.   "
+  "body": " Glossary   aeronautics  The study and design of aircraft.    anemometer  An instrument that measures wind speed and wind direction.    atmosphere  A mixture of gases and other particles surrounding a celestial body that are approximately held in place around the body by the body's gravitational force.    atmospheric science  The scientific study of the chemistry and physics of atmospheres.    barometer  An instrument that measures atmospheric pressure.    celestial body  A coherent collection of matter located in outer space.    climate  A collection of statistical measures based on aggregated short-term atmospheric states considered over a long period of time.    climatology  Also called climate science; the sub-field of atmospheric science that focuses on studying climate.    conceptual model  A model that abstracts its real-life counterpart, which may not have corporeal form.    gravitational force  The attractive force due to a physical body's mass that pulls other physical bodies toward its center.    hygrometer  An instrument that measures humidity.    limb  The edge of an atmosphere as viewed from outer space at an angle roughly perpendicular to the surface of the celestial body the atmosphere surrounds.    meteorology  The sub-field of atmospheric science that focuses on studying and predicting weather.    model  A simplified representation of an object, person, system, process, or other aspect of reality that assists with understanding and prediction of the real counterpart.    physical model  A model that mimics the structural characteristics of its real-life counterpart.    precipitation  A collection of water-based particles that are heavy enough to fall through Earth's atmosphere towards the planet's surface.    professional society  An organization that promotes the work, interests, and advancements of a particular profession.    regional climate  The climate of a contiguous area with similar geographic characteristics.    standard atmosphere  A representative vertical distributions of atmospheric composition, temperature, pressure, and density.    thermometer  An instrument that measures temperature.    US standard atmosphere  A standard atmosphere that depicts idealized annual average middle latitude atmospheric conditions to an altitude of 1000 km.    weather  The state of Earth's atmosphere in a localized geographic area at a moment in time or averaged over a short period of time.   "
 },
 {
   "id": "backmatter-3",
