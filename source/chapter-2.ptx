@@ -50,4 +50,7 @@
     </p>
   </introduction>
 
+  <!-- include sections -->
+  <xi:include href="ch2-section-general-overview-atmosphere.ptx" />
+
 </chapter>
