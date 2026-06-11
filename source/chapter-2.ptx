@@ -3,4 +3,51 @@
 <chapter xml:id="chapter-2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Atmospheric Composition</title>
 
+  <introduction>
+    <p>
+      Have you noticed that some geographic locations usually are cooler while others tend to be warmer?
+      Likewise, have you noticed that some locations usually are drier while others tend to be more humid?
+      And have you noticed that for some locations these types of conditions are prevalent throughout the year while for others they alternate every few months?
+      These are expressions of the expected atmospheric conditions that characterize different <term><xref ref="term-regional-climate" text="custom">regional climates</xref></term>
+      found across Earth.
+    </p>
+    <p>
+      Moving onto shorter timescales, have you noticed that, at the location you tend to spend most of your time,
+      the atmosphere can be clear, calm, sunny, and warm one day but cloudy, rainy, and cooler the next?
+      Or have such changes in atmospheric condition occurred more quickly, such as over the course of a single day or even over a few hours or minutes?
+      These are expressions of the rapidly changeable nature of weather.
+    </p>
+    <p>
+      Given the diversity of climates found across Earth's surface and the wide variety of weather we can experience on a day-to-day basis even at a single location,
+      it should not be surprising to learn that Earth's atmosphere is wonderfully complex.
+      While these complexities make life on this planet interesting,
+      they also make Earth's atmosphere challenging to describe, study, and predict.
+      Consequently, we must make simplifying assumptions about Earth's atmosphere to increase our understanding of its varied phenomena and predict its conditions with accuracy.
+    </p>
+    <p>
+      To assist with describing, understanding, and predicting atmospheric conditions,
+      atmospheric scientists regularly employ <term><xref ref="term-conceptual-model" text="custom">conceptual models</xref></term>
+      as simplified representations of real atmospheric mediums, structures, phenomena, and processes.
+      Atmospheric models provide references against which observations of Earth's atmosphere can be compared,
+      and these references can be updated to improve their accuracy as new observations becomes available.
+    </p>
+    <p>
+      Beginning in this chapter, we will discuss average conditions in Earth's atmosphere using a conceptual model called a standard atmosphere.
+      A <term><xref ref="term-standard-atmosphere" text="custom">standard atmosphere</xref></term>
+      is an idealized model of the vertical distributions of various properties of Earth's atmosphere
+      <mdash/>such as abundance of gas constituents, temperature, pressure, and density<mdash/>averaged over time and horizontal space.
+      Over the years, many standard atmospheres have been constructed to aid with aircraft design and performance calculations.
+      While a standard atmosphere is meant to represent typical conditions in Earth's atmosphere,
+      any choice of standard atmosphere greatly over-simplifies Earth's real atmosphere and should not be viewed as a perfectly accurate representation of it.
+      Despite being imperfect representations of Earth's real atmosphere, standard atmospheres still are quite useful
+      <mdash/>ask anyone working in aeronautics!<mdash/>
+      because they give us a reference to better understand Earth's atmosphere's properties and how they affect flight as well as weather and climate.
+    </p>
+    <p>
+      We will introduce aspects of a commonly used standard atmosphere
+      <mdash/>the <term><xref ref="term-us-standard-atmosphere" text="custom">U.S. Standard Atmosphere</xref></term><mdash/>
+      in this chapter, and we will return to this standard atmosphere in greater detail in Chapter 5.
+    </p>
+  </introduction>
+
 </chapter>

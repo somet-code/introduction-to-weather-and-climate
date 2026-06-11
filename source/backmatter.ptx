@@ -19,6 +19,12 @@
   <glossary>
     <title>Glossary</title>
 
+    <gi xml:id="term-aeronautics">
+      <title>aeronautics</title>
+      <p>
+        The study and design of aircraft.
+      </p>
+    </gi>
     <gi xml:id="term-anemometer">
       <title>anemometer</title>
       <p>
@@ -115,10 +121,28 @@
         An organization that promotes the work, interests, and advancements of a particular profession.
       </p>
     </gi>
+    <gi xml:id="term-regional-climate">
+      <title>regional climate</title>
+      <p>
+        The climate of a contiguous area with similar geographic characteristics.
+      </p>
+    </gi>
+    <gi xml:id="term-standard-atmosphere">
+      <title>standard atmosphere</title>
+      <p>
+        A representative vertical distributions of atmospheric composition, temperature, pressure, and density.
+      </p>
+    </gi>
     <gi xml:id="term-thermometer">
       <title>thermometer</title>
       <p>
         An instrument that measures temperature.
+      </p>
+    </gi>
+    <gi xml:id="term-us-standard-atmosphere">
+      <title>US standard atmosphere</title>
+      <p>
+        A standard atmosphere that depicts idealized annual average middle latitude atmospheric conditions to an altitude of 1000 km.
       </p>
     </gi>
     <gi xml:id="term-weather">
