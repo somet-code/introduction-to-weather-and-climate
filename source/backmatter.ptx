@@ -25,6 +25,12 @@
         The study and design of aircraft.
       </p>
     </gi>
+    <gi xml:id="term-airglow">
+      <title>airglow</title>
+      <p>
+        Light emitted by atmospheric gases due to ionization and chemical reactions.
+      </p>
+    </gi>
     <gi xml:id="term-anemometer">
       <title>anemometer</title>
       <p>

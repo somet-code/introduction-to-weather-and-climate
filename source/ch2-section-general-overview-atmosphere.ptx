@@ -20,7 +20,7 @@
         Atmospheres have variable depths, and many atmospheres are much thinner than the planets they surround.
         This is the case for Earth's atmosphere: While the planet Earth is about 12,750 km wide,
         its atmosphere begins to blend with outer space at only 100 km above the planet's surface!
-        Fig. 1 below shows satellite imagery of Earth on April 8, 2024, the day of the <url href="https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024">Great North American Eclipse</url>.
+        <xref ref="ch2-eclipse-figure" text="type-global" /> below shows satellite imagery of Earth on April 8, 2024, the day of the <url href="https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024">Great North American Eclipse</url>.
         Clouds within Earth's atmosphere are visualized as bright white swirls and patches,
         but because Earth's atmosphere is so much thinner than the planet, there are no other visual clues in this image that Earth has an atmosphere.
     </p>
@@ -32,6 +32,40 @@
         </caption>
         <image source="images/ch2_fig1_eclipse.jpg" width="80%">
         <shortdescription>Half of Earth centered over the Americas, with a brown smudge showing the location of a solar eclipse.</shortdescription>
+        </image>
+    </figure>
+    <p>
+        As <xref ref="ch2-eclipse-figure" text="type-global" /> illustrates, wide shot photography of Earth will not capture its atmosphere.
+        Instead, satellite images and other photographs taken from outer space of Earth's <term><xref ref="term-limb" text="custom">limb</xref></term> better visualize Earth's atmosphere and reveal its thickness and structure.
+        These images view the nighttime side of Earth from an angle that skims Earth's surface.
+        In such images, the depth of Earth's atmosphere is made visible by <term><xref ref="term-airglow" text="custom">airglow</xref></term>,
+        examples of which are shown in <xref ref="ch2-airglow1-figure" text="type-global" /> and <xref ref="ch2-airglow2-figure" text="type-global" /> below.
+        In these images, the opaque portion of airglow that hugs the planet appears mainly yellow and terminates in a thin green layer.
+        This lower portion of airglow extends to about 100 km above Earth's surface, which often is considered the edge of outer space.
+        The thicker, dimmer red and purple portions of airglow extend hundreds of kilometers higher as Earth's atmosphere blends with outer space.
+        The colors found in airglow are formed as various gases in Earth's atmosphere undergo chemical and other reactions with sunlight,
+        and their transparency increases at higher heights as the gases thin out.
+    </p>
+    <figure xml:id="ch2-airglow1-figure">
+        <caption>
+        Photograph taken from the International Space Station of airglow over the Indian Ocean.
+        Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
+        with a thicker layer of dimmer red and purple haze above.
+        <xref ref="ch2-airglow1-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig2_airglow.jpg" width="80%">
+        <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
+        </image>
+    </figure>
+    <figure xml:id="ch2-airglow2-figure">
+        <caption>
+        Photograph taken from the International Space Station of airglow.
+        Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
+        with a thicker layer of dimmer red and purple haze above.
+        <xref ref="ch2-airglow2-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig3_airglow.png" width="80%">
+        <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
         </image>
     </figure>
 </section>
