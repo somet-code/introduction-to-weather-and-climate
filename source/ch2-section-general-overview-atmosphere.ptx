@@ -68,4 +68,31 @@
         <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
         </image>
     </figure>
+    <p>
+        Because an atmosphere gradually thins out at high <term><xref ref="term-altitude" text="custom">altitudes</xref></term>
+        as its planet's gravitational force weakens with increasing distance from the planet's center,
+        it is difficult to define the location of the "top" or upper boundary of an atmosphere.
+        Likewise, it is difficult to define the bottom of outer space, which is the near-vacuum beyond a planet's atmosphere.
+        Instead, atmosphere and outer space blend.
+    </p>
+    <p>
+        As noted above, Earth's atmosphere is said to blend with outer space above 100 km.
+        The altitude of 100 km above Earth's mean sea level (MSL) is called the <term><xref ref="term-karman-line" text="custom">Kármán line</xref></term>,
+        and so the Kármán line generally is accepted the lower boundary of outer space, or the "edge of outer space."
+        <term><xref ref="term-aurora" text="custom">Auroras</xref></term>
+        <mdash />the aurora borealis ("northern lights") of the Northern Hemisphere and the aurora australis ("southern lights") of the Southern Hemisphere<mdash />
+        are formed mainly above the Kármán line as charged gases high in the atmosphere are excited within this blend of atmosphere and outer space by solar emissions.
+        Both airglow and the aurora borealis are visible in Fig. 4 below.
+    </p>
+    <figure xml:id="ch2-aurora-airglow-figure">
+        <caption>
+        Photograph taken from the International Space Station of the aurora borealis (bright green haze) intersecting airglow (blue, purple, and orange haze).
+        Unlike in <xref ref="ch2-airglow2-figure" text="type-global" />, in this image,
+        thin layers of blue and purple airglow are visible next to Earth's surface.
+        <xref ref="ch2-aurora-airglow-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig4_aurora_airglow.png" width="80%">
+        <shortdescription>The side of Earth's atmosphere viewed from outer space, with layers of different colors and an aurora.</shortdescription>
+        </image>
+    </figure>
 </section>

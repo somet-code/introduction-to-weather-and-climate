@@ -31,6 +31,12 @@
         Light emitted by atmospheric gases due to ionization and chemical reactions.
       </p>
     </gi>
+    <gi xml:id="term-altitude">
+      <title>altitude</title>
+      <p>
+        The vertical distance above a reference; for Earth, the vertical distance above the planet's mean sea level.
+      </p>
+    </gi>
     <gi xml:id="term-anemometer">
       <title>anemometer</title>
       <p>
@@ -47,6 +53,12 @@
       <title>atmospheric science</title>
       <p>
         The scientific study of the chemistry and physics of atmospheres.
+      </p>
+    </gi>
+    <gi xml:id="term-aurora">
+      <title>aurora</title>
+      <p>
+        A luminous phenomenon that forms in an atmosphere's magnetosphere due to interactions between charged gas particles and the solar wind.
       </p>
     </gi>
     <gi xml:id="term-barometer">
@@ -95,6 +107,12 @@
       <title>hygrometer</title>
       <p>
         An instrument that measures humidity.
+      </p>
+    </gi>
+    <gi xml:id="term-karman-line">
+      <title>Kármán line</title>
+      <p>
+        The altitude of 100 km above Earth's mean sea level that many organizations accept as the the edge of outer space.
       </p>
     </gi>
     <gi xml:id="term-limb">
