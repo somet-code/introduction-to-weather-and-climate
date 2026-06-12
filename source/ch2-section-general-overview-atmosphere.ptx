@@ -26,12 +26,12 @@
     </p>
     <figure xml:id="ch2-eclipse-figure">
         <caption>
-        Satellite image of the Great North American Eclipse of April 8, 2024.
-        The dark shading near the center of the image shows the location of the eclipse at the time the image was produced.
-        <xref ref="ch2-eclipse-figure-source" text="type-local">Figure sources</xref>
+            Satellite image of the Great North American Eclipse of April 8, 2024.
+            The dark shading near the center of the image shows the location of the eclipse at the time the image was produced.
+            <xref ref="ch2-eclipse-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig1_eclipse.jpg" width="80%">
-        <shortdescription>Half of Earth centered over the Americas, with a brown smudge showing the location of a solar eclipse.</shortdescription>
+            <shortdescription>Half of Earth centered over the Americas, with a brown smudge showing the location of a solar eclipse.</shortdescription>
         </image>
     </figure>
     <p>
@@ -48,24 +48,24 @@
     </p>
     <figure xml:id="ch2-airglow1-figure">
         <caption>
-        Photograph taken from the International Space Station of airglow over the Indian Ocean.
-        Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
-        with a thicker layer of dimmer red and purple haze above.
-        <xref ref="ch2-airglow1-figure-source" text="type-local">Figure sources</xref>
+            Photograph taken from the International Space Station of airglow over the Indian Ocean.
+            Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
+            with a thicker layer of dimmer red and purple haze above.
+            <xref ref="ch2-airglow1-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig2_airglow.jpg" width="80%">
-        <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
+            <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
         </image>
     </figure>
     <figure xml:id="ch2-airglow2-figure">
         <caption>
-        Photograph taken from the International Space Station of airglow.
-        Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
-        with a thicker layer of dimmer red and purple haze above.
-        <xref ref="ch2-airglow2-figure-source" text="type-local">Figure sources</xref>
+            Photograph taken from the International Space Station of airglow.
+            Airglow appears as a thin layer of yellow opaque haze next to Earth terminating in a thinner layer of green opaque haze,
+            with a thicker layer of dimmer red and purple haze above.
+            <xref ref="ch2-airglow2-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig3_airglow.png" width="80%">
-        <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
+            <shortdescription>The side of Earth's atmosphere viewed from outer space, where different atmospheric layers have different colors.</shortdescription>
         </image>
     </figure>
     <p>
@@ -84,13 +84,13 @@
     </p>
     <figure xml:id="ch2-aurora-airglow-figure">
         <caption>
-        Photograph taken from the International Space Station of the aurora borealis (bright green haze) intersecting airglow (blue, purple, and orange haze).
-        Unlike in <xref ref="ch2-airglow2-figure" text="type-global" />, in this image,
-        thin layers of blue and purple airglow are visible next to Earth's surface.
-        <xref ref="ch2-aurora-airglow-figure-source" text="type-local">Figure sources</xref>
+            Photograph taken from the International Space Station of the aurora borealis (bright green haze) intersecting airglow (blue, purple, and orange haze).
+            Unlike in <xref ref="ch2-airglow2-figure" text="type-global" />, in this image,
+            thin layers of blue and purple airglow are visible next to Earth's surface.
+            <xref ref="ch2-aurora-airglow-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig4_aurora_airglow.png" width="80%">
-        <shortdescription>The side of Earth's atmosphere viewed from outer space, with layers of different colors and an aurora.</shortdescription>
+            <shortdescription>The side of Earth's atmosphere viewed from outer space, with layers of different colors and an aurora.</shortdescription>
         </image>
     </figure>
     <p>
@@ -99,12 +99,12 @@
     </p>
     <figure xml:id="ch2-aurora-limb-figure">
         <caption>
-        Photograph taken from the International Space Station of sunlight from the setting Sun illuminating the lower portion of Earth's atmosphere's limb (blue haze)
-        and the aurora borealis (bright green haze) illuminating a higher layer.
-        <xref ref="ch2-aurora-limb-figure-source" text="type-local">Figure sources</xref>
+            Photograph taken from the International Space Station of sunlight from the setting Sun illuminating the lower portion of Earth's atmosphere's limb (blue haze)
+            and the aurora borealis (bright green haze) illuminating a higher layer.
+            <xref ref="ch2-aurora-limb-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig5_aurora_limb.jpg" width="80%">
-        <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and the aurora is present.</shortdescription>
+            <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and the aurora is present.</shortdescription>
         </image>
     </figure>
     <p>
@@ -117,12 +117,12 @@
     </p>
     <figure xml:id="ch2-thunderstorms-limb-figure">
         <caption>
-        Photograph taken from the International Space Station of the flat tops of thunderstorm clouds (white patches) spread in a line over the Brazilian state of Amazonas,
-        with Earth's atmosphere's limb in the background (blue haze).
-        <xref ref="ch2-thunderstorms-limb-figure-source" text="type-local">Figure sources</xref>
+            Photograph taken from the International Space Station of the flat tops of thunderstorm clouds (white patches) spread in a line over the Brazilian state of Amazonas,
+            with Earth's atmosphere's limb in the background (blue haze).
+            <xref ref="ch2-thunderstorms-limb-figure-source" text="type-local">Figure sources</xref>
         </caption>
         <image source="images/ch2_fig6_thunderstorms_limb.png" width="80%">
-        <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and contains relatively shallow thunderstorm clouds.</shortdescription>
+            <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and contains relatively shallow thunderstorm clouds.</shortdescription>
         </image>
     </figure>
     <p>
