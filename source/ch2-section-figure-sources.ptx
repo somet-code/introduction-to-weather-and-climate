@@ -22,7 +22,8 @@
                 <title>Airglow over the Indian Ocean</title>
                 <p>
                     This image originally appeared in the NASA Earth Observatory story <url href="https://science.nasa.gov/earth/earth-observatory/airglow-over-the-indian-ocean-147367/"><articletitle>Airglow Over the Indian Ocean</articletitle></url>.
-                    Astronaut photograph <url href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS063&amp;roll=E&amp;frame=065220">ISS063-E-065220</url> was acquired on July 31, 2020,
+                    Astronaut photograph <url href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS063&amp;roll=E&amp;frame=065220">ISS063-E-065220</url>
+                    was acquired on July 31, 2020,
                     with a Nikon D4 digital camera using a 28 millimeter lens and is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit,
                     Johnson Space Center.
                     The image was taken by a member of the <url href="https://www.nasa.gov/mission/expedition-63/">Expedition 63</url> crew.
@@ -65,6 +66,49 @@
                     Caption by Alex Stoken, Jacobs, JETS Contract at NASA-JSC.
                     Licensed under <url href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA Images and Media Usage Guidelines</url>.
                     Accessed via <url href="https://science.nasa.gov/earth/earth-observatory/aurora-meet-airglow-147122/">NASA Earth Observatory</url>.
+                </p>
+            </li>
+            <li xml:id="ch2-aurora-limb-figure-source">
+                <title>Aurora and limb</title>
+                <p>
+                    This image originally appeared in the NASA Earth Observatory story <url href="https://science.nasa.gov/earth/earth-observatory/scandinavia-at-night-85855/"><articletitle>Scandinavia at Night</articletitle></url>.
+                    Astronaut photograph <url href="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=86375">ISS043-E-86375</url>
+                    was acquired on April 3, 2015,
+                    with a Nikon D4 digital camera using a 24 millimeter lens, and is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit,
+                    Johnson Space Center.
+                    The image was taken by a member of the <url href="https://www.nasa.gov/mission/expedition-43/">Expedition 43</url> crew.
+                    The image has been cropped and enhanced to improve contrast, and lens artifacts have been removed.
+                    The <url href="https://www.nasa.gov/international-space-station/">International Space Station Program</url>
+                    supports the laboratory as part of the <url href="https://issnationallab.org/">ISS National Lab</url>
+                    to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public,
+                    and to make those images freely available on the Internet.
+                    Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC <url href="http://eol.jsc.nasa.gov">Gateway to Astronaut Photography of Earth</url>.
+                    Caption by M. Justin Wilkinson, Texas State University, Jacobs Contract at NASA-JSC.
+                    Licensed under <url href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA Images and Media Usage Guidelines</url>.
+                    Accessed via <url href="https://science.nasa.gov/earth/earth-observatory/scandinavia-at-night-85855/">NASA Earth Observatory</url>.
+                </p>
+            </li>
+            <li xml:id="ch2-thunderstorms-limb-figure-source">
+                <title>Thunderstorms and limb</title>
+                <p>
+                    This image originally appeared in the NASA Earth Observatory story <url href="https://science.nasa.gov/earth/earth-observatory/thunderstorms-on-the-brazilian-horizon-41052/"><articletitle>Thunderstorms on the Brazilian Horizon</articletitle></url>.
+                    Astronaut photograph <url href="http://eol.jsc.nasa.gov/scripts/sseop/photo.pl?mission=ISS020&amp;roll=E&amp;frame=47807">ISS020-E-47807</url>
+                    was acquired on October 6, 2009,
+                    with a Nikon D2Xs digital camera using an effective 48mm lens (28-70 mm zoom lens) and is provided by the ISS Crew Earth Observations experiment and Image Science &amp; Analysis Laboratory,
+                    Johnson Space Center.
+                    The astronaut photograph was taken by the <url href="https://www.nasa.gov/mission/expedition-20/">Expedition 20</url> crew.
+                    GOES image courtesy NASA <url href="https://science.nasa.gov/mission/goes/">GOES Satellite Network</url>
+                    and NOAA <url href="https://www.class.noaa.gov/">Comprehensive Large Array-Data Stewardship System</url>.
+                    The photograph in this article has been cropped and enhanced to improve contrast.
+                    Lens artifacts have been removed.
+                    The <url href="https://www.nasa.gov/international-space-station/">International Space Station Program</url>
+                    supports the laboratory as part of the <url href="https://issnationallab.org/">ISS National Lab</url>
+                    to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public,
+                    and to make those images freely available on the Internet.
+                    Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC <url href="http://eol.jsc.nasa.gov">Gateway to Astronaut Photography of Earth</url>.
+                    Caption by Susan K. Runco, NASA-JSC.
+                    Licensed under <url href="https://www.nasa.gov/nasa-brand-center/images-and-media/">NASA Images and Media Usage Guidelines</url>.
+                    Accessed via <url href="https://science.nasa.gov/earth/earth-observatory/thunderstorms-on-the-brazilian-horizon-41052/">NASA Earth Observatory</url>.
                 </p>
             </li>
         </ol>

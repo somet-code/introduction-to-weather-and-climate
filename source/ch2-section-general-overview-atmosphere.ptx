@@ -79,9 +79,7 @@
         As noted above, Earth's atmosphere is said to blend with outer space above 100 km.
         The altitude of 100 km above Earth's mean sea level (MSL) is called the <term><xref ref="term-karman-line" text="custom">Kármán line</xref></term>,
         and so the Kármán line generally is accepted the lower boundary of outer space, or the "edge of outer space."
-        <term><xref ref="term-aurora" text="custom">Auroras</xref></term>
-        <mdash />the aurora borealis ("northern lights") of the Northern Hemisphere and the aurora australis ("southern lights") of the Southern Hemisphere<mdash />
-        are formed mainly above the Kármán line as charged gases high in the atmosphere are excited within this blend of atmosphere and outer space by solar emissions.
+        <term><xref ref="term-aurora" text="custom">Auroras</xref></term><mdash />the aurora borealis ("northern lights") of the Northern Hemisphere and the aurora australis ("southern lights") of the Southern Hemisphere<mdash />are formed mainly above the Kármán line as charged gases high in the atmosphere are excited within this blend of atmosphere and outer space by solar emissions.
         Both airglow and the aurora borealis are visible in Fig. 4 below.
     </p>
     <figure xml:id="ch2-aurora-airglow-figure">
@@ -95,4 +93,48 @@
         <shortdescription>The side of Earth's atmosphere viewed from outer space, with layers of different colors and an aurora.</shortdescription>
         </image>
     </figure>
+    <p>
+        Earth's limb appears as a thin blue curve when it is lit from below by the rising or setting Sun,
+        the bright light of which dominates the much dimmer airglow, as shown in <xref ref="ch2-aurora-limb-figure" text="type-global" /> below.
+    </p>
+    <figure xml:id="ch2-aurora-limb-figure">
+        <caption>
+        Photograph taken from the International Space Station of sunlight from the setting Sun illuminating the lower portion of Earth's atmosphere's limb (blue haze)
+        and the aurora borealis (bright green haze) illuminating a higher layer.
+        <xref ref="ch2-aurora-limb-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig5_aurora_limb.jpg" width="80%">
+        <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and the aurora is present.</shortdescription>
+        </image>
+    </figure>
+    <p>
+        <xref ref="ch2-thunderstorms-limb-figure" text="type-global" /> below shows a photograph of thunderstorm clouds over South America with Earth's limb in the background to suggest the transition to outer space.
+        Thunderstorms and most other weather phenomena are made visible through sunlight reflected to human eyes by the liquid and solid water particles that form clouds.
+        This photograph shows how most of what we think of as "weather" occurs in only the lowest about 8<ndash />20 km of Earth's atmosphere.
+        Note that the thunderstorms terminate rather abruptly in wide flat cloud sheets,
+        and also note that the thunderstorm clouds are much shallower than Earth's limb:
+        These characteristics show how this lowest layer that holds our weather is cut off from the rest of Earth's atmosphere.
+    </p>
+    <figure xml:id="ch2-thunderstorms-limb-figure">
+        <caption>
+        Photograph taken from the International Space Station of the flat tops of thunderstorm clouds (white patches) spread in a line over the Brazilian state of Amazonas,
+        with Earth's atmosphere's limb in the background (blue haze).
+        <xref ref="ch2-thunderstorms-limb-figure-source" text="type-local">Figure sources</xref>
+        </caption>
+        <image source="images/ch2_fig6_thunderstorms_limb.png" width="80%">
+        <shortdescription>The side of Earth's atmosphere viewed from outer space, where the lowest layer is lit blue by sunlight and contains relatively shallow thunderstorm clouds.</shortdescription>
+        </image>
+    </figure>
+    <p>
+        Even though we have not yet explored the structure of Earth's atmosphere in this textbook,
+        <xref first="ch2-eclipse-figure" last="ch2-thunderstorms-limb-figure" text="global">Figures</xref>
+        already reveal to us that Earth's atmosphere has layers:
+        Airglow is arranged in distinctly different layers of color;
+        auroras occur within only some of these layers;
+        and weather phenomena like clouds and thunderstorms are mostly confined to the lowest layer.
+        These figures additionally reveal that gases in Earth's atmosphere undergo chemical and other reactions with sunlight.
+        We will explore interactions between the particles that make up Earth's atmosphere and sunlight in Chapter 4,
+        and we will return to the concept of atmospheric layers in Chapter 5.
+        Later, in Chapters 7 and 8, we will look into the formation of clouds<mdash />including those that make up thunderstorms<mdash />in the lowest part of Earth's atmosphere.
+    </p>
 </section>
