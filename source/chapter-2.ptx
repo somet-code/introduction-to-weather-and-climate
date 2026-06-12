@@ -35,17 +35,17 @@
       Beginning in this chapter, we will discuss average conditions in Earth's atmosphere using a conceptual model called a standard atmosphere.
       A <term><xref ref="term-standard-atmosphere" text="custom">standard atmosphere</xref></term>
       is an idealized model of the vertical distributions of various properties of Earth's atmosphere
-      <mdash/>such as abundance of gas constituents, temperature, pressure, and density<mdash/>averaged over time and horizontal space.
+      <mdash />such as abundance of gas constituents, temperature, pressure, and density<mdash />averaged over time and horizontal space.
       Over the years, many standard atmospheres have been constructed to aid with aircraft design and performance calculations.
       While a standard atmosphere is meant to represent typical conditions in Earth's atmosphere,
       any choice of standard atmosphere greatly over-simplifies Earth's real atmosphere and should not be viewed as a perfectly accurate representation of it.
       Despite being imperfect representations of Earth's real atmosphere, standard atmospheres still are quite useful
-      <mdash/>ask anyone working in aeronautics!<mdash/>
+      <mdash />ask anyone working in aeronautics!<mdash />
       because they give us a reference to better understand Earth's atmosphere's properties and how they affect flight as well as weather and climate.
     </p>
     <p>
       We will introduce aspects of a commonly used standard atmosphere
-      <mdash/>the <term><xref ref="term-us-standard-atmosphere" text="custom">U.S. Standard Atmosphere</xref></term><mdash/>
+      <mdash />the <term><xref ref="term-us-standard-atmosphere" text="custom">U.S. Standard Atmosphere</xref></term><mdash />
       in this chapter, and we will return to this standard atmosphere in greater detail in Chapter 5.
     </p>
   </introduction>

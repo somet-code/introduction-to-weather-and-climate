@@ -6,8 +6,8 @@
     <p>
         <ul>
             <li>
-                <p>
-                    American Meteorological Society. n.d. "Atmosphere." Glossary of Meteorology. <url href="https://glossary.ametsoc.org/wiki/atmosphere" text="custom">https://glossary.ametsoc.org/wiki/atmosphere</url>.
+                <p>text
+                    American Meteorological Society. n.d. "Atmosphere." Glossary of Meteorology. <url href="https://glossary.ametsoc.org/wiki/atmosphere" ="custom">https://glossary.ametsoc.org/wiki/atmosphere</url>.
                 </p>
             </li>
             <li>
