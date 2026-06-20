@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="ch2-section-general-overview-atmosphere-composition" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>General overview of Earth's atmospheric composition</title>
+
+    <p>
+        To understand how Earth's atmosphere produces the wide variety of atmospheric conditions we interpret as weather and climate,
+        we must know what the atmosphere is made of.
+        Thus, we begin our detailed exploration of Earth's atmosphere in this textbook with discussion of its
+        <term><xref ref="term-composition" text="custom">composition</xref></term>.
+    </p>
+
+    <p>
+        The particles Earth's atmosphere is composed of range in size from those that are too tiny to be seen individually by the naked
+        eye<mdash />like the atoms and molecules that make up gases, the tiny liquid water droplets and solid ice crystals that constitute clouds,
+        the lofted grains of dust that create dust storms,
+        and the soot and ash particles that create smoke<mdash />to
+        larger visible drops of rain, flakes of snow, pellets of sleet, and hail stones.
+        These particles all are small, yet they control how Earth's atmosphere interacts with sunlight and other energy flows;
+        how it responds to and impacts underlying surfaces and living organisms on them;
+        and ultimately how it creates weather and climate.
+    </p>
+
+    <p>
+        In summary, Earth's atmosphere is composed largely of a mixture of
+        gas particles<mdash />collectively called <term><xref ref="term-air" text="custom">air</xref></term><mdash />with
+        much smaller amounts of suspended or falling liquid and solid particles dispersed unevenly through it.
+        Depending on the application, we sometimes will focus on the behaviors of individual particles in this mixture,
+        and at other times we will group many of these particles together and explore their bulk behavior.
+    </p>
+
+    <p>
+        The current composition of Earth's atmosphere benefits our lives in many ways.
+        A non-comprehensive list of these benefits includes the following.
+    </p>
+
+    <p>
+        <ul>
+            <li>
+                <p>
+                    Air supplies dioxygen, which we and other living organisms breathe in to power cellular respiration.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Dioxygen allows for combustion, while dinitrogen limits combustion.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Plants and algae absorb carbon dioxide and release dioxygen during photosynthesis.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases allow insects, birds, and bats as well as aircraft to fly.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases further enable travel by pushing against the sails of sailboats.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases enable sound waves to propagate.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases cause meteors and other space debris to burn up before reaching Earth's surface.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases reflect and absorb dangerous high-energy radiation and particles produced by the Sun and other celestial sources.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Gases exert pressure, which allows liquid water to exist on Earth's surface.
+                </p>
+            </li>
+        </ul>
+    </p>
+
+    <p>
+        Most importantly for this textbook,
+        the current composition of Earth's atmosphere creates the weather we experience and the climate we're used to through various processes.
+        A non-comprehensive list of these processes includes the following.
+    </p>
+
+    <p>
+        <ul>
+            <li>
+                <p>
+                    Different particles interact with solar and terrestrial radiation in different ways,
+                    thereby giving us beautiful colors in the sky and livable temperatures on Earth's surface.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Some gases absorb harmful high-energy solar radiation before it can reach Earth's surface,
+                    thereby protecting our health and the health of other living organisms while warming the atmosphere.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Water vapor, which is the gaseous form of water,
+                    condenses into liquid water drops and deposits into ice crystals to create clouds and precipitation as well as dew and frost.
+                </p>
+            </li>
+            <li>
+                <p>
+                    The movement of gases through the atmosphere lessens temperature extremes and brings moisture to even far inland locations.
+                </p>
+            </li>
+        </ul>
+    </p>
+
+    <p>
+        Without the atmosphere, life as we know it could not exist on Earth.
+        You can look to Earth's uninhabitable Moon for an example of what conditions on a celestial body with essentially no atmosphere are like!
+    </p>
+
+    <exercises>
+        <exercise>
+            <title>Other benefits of Earth's atmosphere</title>
+            <statement>
+                <p>
+                    Perform an Internet search for at least one other benefit of Earth's atmosphere not given in the above lists.
+                </p>
+            </statement>
+        </exercise>
+    </exercises>
+    
+</section>

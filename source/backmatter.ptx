@@ -25,6 +25,12 @@
         The study and design of aircraft.
       </p>
     </gi>
+    <gi xml:id="term-air">
+      <title>air</title>
+      <p>
+        The mixture of gases that make up the large majority of Earth's atmosphere.
+      </p>
+    </gi>
     <gi xml:id="term-airglow">
       <title>airglow</title>
       <p>
@@ -89,6 +95,12 @@
       <title>climatology</title>
       <p>
         Also called climate science; the sub-field of atmospheric science that focuses on studying climate.
+      </p>
+    </gi>
+    <gi xml:id="term-composition">
+      <title>composition</title>
+      <p>
+        The collection of components that make up a substance.
       </p>
     </gi>
     <gi xml:id="term-conceptual-model">
