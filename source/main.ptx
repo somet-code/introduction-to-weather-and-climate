@@ -6,7 +6,6 @@
 
   <book xml:id="introduction-to-weather-and-climate">
     <title>Introduction to Weather and Climate</title>
-    <subtitle>Getting to Know Earth's Atmosphere</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
